@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="FloodHacking is a community dedicated to ensuring safe messaging practices and protecting users from harmful content online. Join us for a respectful and secure digital environment.">
+    <meta name="keywords" content="FloodHacking, Cybersecurity, Safe Messaging, Online Community, Digital Safety, User Protection, Telegram Channel">
+    <meta name="author" content="FloodHacking Community">
+    <title>FloodHacking: A Community for Safe Messaging</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #0d0d0d;
+            color: #e0e0e0;
+        }
+        header {
+            background: #007bff;
+            color: #fff;
+            padding: 15px 0;
+            text-align: center;
+            border-bottom: 5px solid #0056b3;
+        }
+        h1 {
+            margin: 0;
+        }
+        article {
+            background: #1a1a1a;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+            margin: 20px 0;
+        }
+        h2 {
+            color: #007bff;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #333;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #999;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>FloodHacking: A Community for Safe Messaging</h1>
+</header>
+
+<article>
+    <h2>Origin and Foundation</h2>
+    <p>
+        FloodHacking is an online community established on November 16, 2019, dedicated to the moderation and management of groups on messaging applications. Its primary aim is to expel and eliminate users and groups that violate the rules of these platforms, thereby protecting community members and fostering a safer and more respectful environment.
+    </p>
+    
+    <h2>Mission and Objectives</h2>
+    <p>
+        The mission of FloodHacking is to ensure that messaging platforms are safe spaces for all users. The community's main objectives include:
+    </p>
+    <ul>
+        <li><strong>Active Moderation:</strong> Identifying and reporting groups and users that violate messaging platform rules.</li>
+        <li><strong>Education and Awareness:</strong> Providing resources and guides to help users understand the rules and safe online practices.</li>
+        <li><strong>Fostering a Positive Environment:</strong> Creating a space where users can interact in a respectful and constructive manner.</li>
+    </ul>
+
+    <h2>Activities</h2>
+    <p>
+        FloodHacking engages in various activities to achieve its objectives, such as:
+    </p>
+    <ul>
+        <li><strong>Group Monitoring:</strong> Community members constantly monitor groups across different messaging apps to detect inappropriate behaviors.</li>
+        <li><strong>Reporting and Removal:</strong> The community coordinates to submit mass reports to messaging platforms about users and groups that violate rules.</li>
+        <li><strong>Talks and Workshops:</strong> FloodHacking organizes online events discussing topics related to online security and the importance of rules in digital communities.</li>
+    </ul>
+
+    <h2>Impact</h2>
+    <p>
+        Since its inception, FloodHacking has successfully eliminated numerous groups that promoted harassment and misinformation, contributing to a safer environment in messaging apps. The community has grown significantly, attracting users interested in maintaining clean and respectful online spaces.
+    </p>
+
+    <h2>Controversies</h2>
+    <p>
+        Despite its positive mission, FloodHacking has faced criticism for its moderation approach, with some detractors arguing that its actions may lead to censorship of opinions and the elimination of legitimate discussion groups. The community defends itself by stating that its goal is to protect users from harmful behaviors and that it always acts in accordance with the rules established by the platforms.
+    </p>
+
+    <h2>Conclusion</h2>
+    <p>
+        FloodHacking represents a collective effort by its members to improve the quality of online interactions and promote a safer environment in messaging applications. As the community continues to grow, its commitment to safety and respect online remains its top priority.
+    </p>
+
+    <h2>Join Us on Telegram</h2>
+    <p>
+        Connect with us on Telegram for updates and discussions: <a href="https://t.me/FloodHacking" target="_blank">FloodHacking Channel</a>
+    </p>
+</article>
+
+<footer>
+    <p>&copy; 2023 FloodHacking Community</p>
+</footer>
+
+</body>
+</html>
